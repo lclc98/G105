@@ -1,0 +1,13 @@
+{
+  "name": "g105",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "node-hid": "^0.5.7",
+    "robotjs": "^0.5.1"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
